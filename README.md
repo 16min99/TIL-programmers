@@ -45,9 +45,4 @@
 8. PR을 아래 양식에 맞춰 내용을 작성합니다.
    여러개의 링크를 첨부하고 싶으시다면 테이블의 row를 추가해주세요.  
    
-|날짜|제목|설명|링크|
-|---|---|---|---|
-|0802|Day1|프레임워크를 위한 JAVA 1, 알고리즘 문제풀이|[링크](https://github.com/16min99/TIL/blob/main/0802dev.md)|
-|0803|Day2|프레임워크를 위한 JAVA 2|[링크](https://github.com/16min99/TIL/blob/main/0803dev.md)|
-|0804|Day3|프레임워크를 위한 JAVA 3|[링크](https://github.com/16min99/TIL/blob/main/0804dev.md)|
 
