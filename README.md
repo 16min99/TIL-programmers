@@ -47,7 +47,7 @@
    
 |날짜|제목|설명|링크|
 |---|---|---|---|
-|0802|Day1|프레임워크를 위한 JAVA 1, 알고리즘 문제풀이|[링크]](https://github.com/16min99/TIL/blob/main/0802dev.md)|
-|0803|Day2|프레임워크를 위한 JAVA 2|[링크]](https://github.com/16min99/TIL/blob/main/0803dev.md)|
-|0804|Day3|프레임워크를 위한 JAVA 3|[링크]](https://github.com/16min99/TIL/blob/main/0804dev.md)|
+|0802|Day1|프레임워크를 위한 JAVA 1, 알고리즘 문제풀이|[링크](https://github.com/16min99/TIL/blob/main/0802dev.md)|
+|0803|Day2|프레임워크를 위한 JAVA 2|[링크](https://github.com/16min99/TIL/blob/main/0803dev.md)|
+|0804|Day3|프레임워크를 위한 JAVA 3|[링크](https://github.com/16min99/TIL/blob/main/0804dev.md)|
 
